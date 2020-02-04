@@ -1,0 +1,66 @@
+.btn-primary {
+	color: #fff;
+	background-color: transparent;
+	border-color: white;
+  margin-bottom: 5px;
+}
+
+.btn-primary:hover {
+	color: rgb(189, 189, 255);
+	background-color: white;
+	border-color: white;
+}
+
+
+.jumbotron {
+  background-color: rgba(189, 189, 255, 0.863);
+}
+
+body {
+  background: rgb(54, 54, 66);
+}
+
+.col-sm {
+  color: rgb(218, 216, 216);
+  padding-top: 20px;
+}
+
+.img-thumbnail {
+  height: 100px;
+  width: 100px;
+}
+
+.navbar-brand {
+  padding-left: 20px;
+}
+
+.gallery {
+  padding-bottom: 40px;
+}
+
+img {
+  padding-top: 10px;
+  height: 500px;
+  width: 400px;
+}
+
+p {
+  padding-top: 20px;
+}
+
+.submitbtn {
+  color: #fff;
+	background-color: rgba(189, 189, 255, 0.863);
+	border-color: white;
+}
+
+.submitbtn:hover {
+	color: rgb(189, 189, 255);
+	background-color: white;
+	border-color: white;
+}
+
+h2 {
+  font-size: 20px;
+  padding-bottom: 30px;
+}
